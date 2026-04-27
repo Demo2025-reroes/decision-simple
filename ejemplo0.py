@@ -1,6 +1,6 @@
 """
     Ejemplo de estructura de condicional
-    simple
+    simple actualizado
 """
 # variable edad, asume el valor ingresado porteclado
 edad = input("Ingrese la edad de la persona: ")
@@ -17,5 +17,3 @@ edad = int(edad)
 
 if edad >= 18:
     print("La persona es mayor de edad en Ecuador")
-
-
